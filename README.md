@@ -17,5 +17,5 @@
 
 <h3>筆記區</h3>
 <ul>
-
+<li><a href="https://golden-flax-417.notion.site/cb2bc375d45d40f98ce7729c6e673095">notion</a></li>
 </ul>
