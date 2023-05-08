@@ -11,8 +11,8 @@
   <li>作業一:<a href="https://www.youtube.com/watch?v=3p-NAOAY1M0">Prefix Sum & String</a></li>
   <li>作業二:<a href="https://youtu.be/6CdNHIYnR_8">Greedy & Tree</a></li>
   <li>作業三:<a href="https://youtu.be/_1UEYFkjw48">Binary Search</a></li>
-  <li>作業四:</li>
-  <li>作業五:</li>
+  <li>作業四:<a href="https://youtu.be/nDzPtN-KaFs">Stack & Heap</a></li>
+  <li>作業五:<a href="https://youtu.be/nDzPtN-KaFs">Stack & Heap</li>
 </ul>
 
 <h3>筆記區</h3>
