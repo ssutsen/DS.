@@ -13,6 +13,7 @@
   <li>作業三:<a href="https://youtu.be/_1UEYFkjw48">Binary Search</a></li>
   <li>作業四:<a href="https://youtu.be/nDzPtN-KaFs">Graph</a></li>
   <li>作業五:<a href="https://youtu.be/nDzPtN-KaFs">Stack & Heap</li>
+  <li>期末:<a href="https://youtu.be/jPUv40mV60o">連結</li>
 </ul>
 
 <h3>筆記區</h3>
